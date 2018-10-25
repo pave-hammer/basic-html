@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: darkslateblue
+}
+
+h2 {
+    text-align: center;
+    color: teal
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+}
+
+.unord-list {
+    background-color: crimson;
+}
+
+.order-list {
+    background-color: aquamarine;
+}
+
+.img-size {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.background-color {
+    background-color: black;
+}
