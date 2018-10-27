@@ -21,11 +21,11 @@ h3 {
     background-color: aquamarine;
 }
 
-.img-size {
+.img {
     max-width: 400px;
     max-height: 400px;
 }
 
-.background-color {
+.title {
     background-color: black;
 }
