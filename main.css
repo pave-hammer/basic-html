@@ -29,3 +29,7 @@ h3 {
 .title {
     background-color: black;
 }
+
+.footer {
+    align-items: center;
+}
